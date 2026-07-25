@@ -29,10 +29,10 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload calculator website
+      - name: Upload project websites
         uses: actions/upload-pages-artifact@v3
         with:
-          path: WebDev-L2-Calculator
+          path: .
 
       - name: Deploy website
         id: deployment
