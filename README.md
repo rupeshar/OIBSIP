@@ -4,9 +4,9 @@ Oasis Infobyte Web Development and Designing internship projects.
 
 ## Level 2
 
-- [Task 1 — Calculator](./WebDev-L2-Calculator/)
-- [Task 2 — Tribute Page](./WebDev-L2-TributePage/)
-- [Task 3 — To-Do Web App](./WebDev-L2-ToDoApp/)
-- [Task 4 — Login Authentication System](./WebDev-L2-LoginAuthenticationSystem/)
+- [Task 1 — Calculator](./WebDev-L2-Task1-Calculator/)
+- [Task 2 — To-Do Web App](./WebDev-L2-Task2-ToDoApp/)
+- [Task 3 — Tribute Page](./WebDev-L2-Task3-TributePage/)
+- [Task 4 — Login Authentication System](./WebDev-L2-Task4-LoginAuthenticationSystem/)
 
 The calculator is built with HTML5, CSS3, and vanilla JavaScript.
