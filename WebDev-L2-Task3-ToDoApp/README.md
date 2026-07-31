@@ -42,7 +42,7 @@ With Python installed:
 python -m http.server 8000
 ```
 
-Then open `http://localhost:8000/WebDev-L2-Task2-ToDoApp/`.
+Then open `http://localhost:8000/WebDev-L2-Task3-ToDoApp/`.
 
 ## Learning references
 
